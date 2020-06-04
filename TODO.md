@@ -1,20 +1,26 @@
 # 20200527
-* vitalstoffe --> vitalpulver
-* 2 pfeile links und rechts zu vitalpulver
-* linie unter überschriften
-* break points: mobile, desktop
-* team vollständig
-* social: insta, twitter, fb, wapp, g+
-* produkt overview
+* [ ] vitalstoffe --> vitalpulver umbennennen
+* [ ] linie unter überschriften
+* [ ] break points
+	* 2 break points only
+	* mobile (nav button) 
+	* desktop (top nav bar)
+* [ ] team vollständig
+	* thomas, henry hinzufügen
+	* TEXTBLOCK_PERSON einsetzen
+* [ ] social: insta, twitter, fb, wapp, g+
+* [ ] produkt overview
 	* hero
-	* teaser
-	* liste
-* product card
+	* kurztext
+	* liste products cards
+* [ ] product card
 	* bild
 	* name
-	* shorttext
-* product details
+	* shorttext aus fronmatter
+* [ ] product details
 	* bild
-	* text
-	* närstofftabelle
-* single page template entwerfen
+	* markdown content
+	* single page
+
+# 20200603
+* [ ] videos in kacheln
