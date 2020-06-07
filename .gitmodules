@@ -1,0 +1,3 @@
+[submodule "phytago-site"]
+	path = phytago-site
+	url = ../phytago-site/

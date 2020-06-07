@@ -2,7 +2,7 @@
 title: ""
 date: 2020-05-12T20:02:36+02:00
 herovideo: "video-rettich-big1.mp4"
-herotext: ["TEXTBLOCK_JUNGP1", "TEXTBLOCK_JUNGP2", "TEXTBLOCK_JUNGP3"]
+herotext: ["Jungpflanzen - Gemüse im Säuglingsalter"]
 heroheight: 400px
 videoposition: -200px
 description: "**frisch und knackig** oder **vakuumgetrocknet und knusprig**"

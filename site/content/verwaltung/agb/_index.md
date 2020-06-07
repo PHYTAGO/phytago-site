@@ -7,13 +7,12 @@ herotext: ["Allgemeine Geschäftsbedingungen"]
 heroheight: 300px
 draft: true
 ---
-# Allgemeine Geschäftsbedingungen
-
-## § 1 Geltungsbereich, Kundeninformationen
+Allgemeine Geschäftsbedingungen
+§ 1 Geltungsbereich, Kundeninformationen
 
 Die folgenden allgemeinen Geschäftsbedingungen regeln das Vertragsverhältnis zwischen Pilzgarten GmbH und den Verbrauchern und Unternehmern, die über unseren Shop Waren kaufen. Entgegenstehende oder von unseren Geschäftsbedingungen abweichende Bedingungen werden von uns nicht anerkannt. Die Vertragssprache ist Deutsch.
 
-## § 2 Vertragsschluss
+§ 2 Vertragsschluss
 1.Die Angebote im Internet stellen eine unverbindliche Aufforderung an Sie dar, Waren zu kaufen.
 2.Sie können ein oder mehrere Produkte in den Warenkorb legen. Im Laufe des Bestellprozesses geben Sie Ihre Daten und Wünsche bzgl. Zahlungsart, Liefermodalitäten etc. ein. Erst mit dem Anklicken des Bestellbuttons geben Sie ein verbindliches Angebot auf Abschluss eines Kaufvertrags ab. Sie können eine verbindliche Bestellung aber auch telefonisch oder per Telefax abgeben. Die unverzüglich per E-Mail bzw. per Telefax erfolgende Zugangsbestätigung Ihrer Bestellung stellt noch keine Annahme des Kaufangebots dar.
 3.Wir sind berechtigt, Ihr Angebot innerhalb von 2 Werktagen unter Zusendung einer Auftragsbestätigung per E-Mail anzunehmen. Nach fruchtlosem Ablauf der in Satz 1 genannten Frist gilt Ihr Angebot als abgelehnt, d.h. Sie sind nicht länger an Ihr Angebot gebunden. Bei einer telefonischen Bestellung kommt der Kaufvertrag zustande, wenn wir Ihr Angebot sofort annehmen. Wird das Angebot nicht sofort angenommen, dann sind Sie auch nicht mehr daran gebunden.

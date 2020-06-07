@@ -13,4 +13,4 @@ herotext: [
 ]
 heroheight: 550px
 ---
-TEXTBLOCK_INDEX
+TEXTBLOCK_ABOUTUS

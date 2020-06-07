@@ -64,6 +64,7 @@ video = "video-chia.mp4"
   # Intro section
   # Available icons: https://simplelineicons.com/
   [params.intro]
+    title = "PRODUKTE"
 
   [[params.intro.item]]
     title = "Jungpflanzen"
@@ -72,6 +73,7 @@ video = "video-chia.mp4"
     button = "Jungpflanzen"
     icon = "icon-plant"
     img = "Microgreens.jpg"
+    herovideo ="video-chia.mp4"
 
   [[params.intro.item]]
     title = "Gourmetpilze"
@@ -83,9 +85,9 @@ video = "video-chia.mp4"
 
   [[params.intro.item]]
     title = "Vitalpulver"
-    description = "Vitalstoffe sind überwiegend als Biokatalysatoren in Zellen und Geweben bei Anwesenheit von Wasser, Sauerstoff und Kohlensäure (letztere bei Pflanzen) wirksame lebenswichtige Bestandteile: Enzyme, Co-Enzyme, Vitamine, Hormone, exogen-essentielle Aminosäuren, exogen-essentielle Fettsäuren, Haupt- und Spurenelemente, Duft- und Geschmacksstoffe."
-    url = "/produkte/vitalstoffe"
-    button = "Vitalstoffe"
+    description = "Vitalpulver sind überwiegend als Biokatalysatoren in Zellen und Geweben bei Anwesenheit von Wasser, Sauerstoff und Kohlensäure (letztere bei Pflanzen) wirksame lebenswichtige Bestandteile: Enzyme, Co-Enzyme, Vitamine, Hormone, exogen-essentielle Aminosäuren, exogen-essentielle Fettsäuren, Haupt- und Spurenelemente, Duft- und Geschmacksstoffe."
+    url = "/produkte/Vitalpulver"
+    button = "Vitalpulver"
     icon = "icon-diamond"
     img = "Gewuerze.jpg"
 
@@ -212,26 +214,44 @@ video = "video-chia.mp4"
     enable = true
     title = "Das TEAM"
    # description = "Portfolios unserer Gourmetpilze"
-    description = "Unsere kompetenten Kontaktpersonen"
+    description = "Mit fachlichem Wissen und Kenntnisspezialisierungen für Sie erreichbar:"
 
 
     [[params.testimonials.item]]
-      quote = "Der Macher - Wahrscheinlich unsere stärkste Treibende Kraft, mit hohem betriebswirtschaftlichem Potential. Sein stetig wachsendes Wissen in den Metiers der Wirtschaft, Kundenorientierung und Struktur, ist er auch für fachfremde eine Quelle für Information und Motivation. Der richtige Geschäftsmann."
+      quote = "Hier steht, was diese Person für eine Rolle bei PHYTAGO spielt und was die Spezialfähigkeiten sind."
       person = 'Nico'
-      img = "person1.png"
+      img = "person1.jpg"
       alt = "bild"
 
     [[params.testimonials.item]]
-      quote = "Der grüne Daumen - Die Frau mit dem Kopf hinter den pflanzlichen Fragen. Ihre Hingabe für alle biologisch, chemischen Zusammenhänge erkennt man natürlich an der Qualität unserer Produkte. Mit fundiertem Wissen wird es immer neue Methoden und Produkte bei uns geben."
+      quote = "Hier steht, was diese Person für eine Rolle bei PHYTAGO spielt und was die Spezialfähigkeiten sind."
       person = 'Celiné'
-      img = "person2.png"
+      img = "person2.jpg"
       alt = "bild"
 
     [[params.testimonials.item]]
-      quote = "Der Techniker - Alles rund ums Thema Hardware und Infrastruktur wird von unserem Techniker übernommen. Mit größter Sorgfalt wird bei uns ausgewählt. Er legt nicht nur Wert auf Funktion sondern auch darauf, dass Teile mit guter Ökobilanz und angemessenem Energieverbrauch verbaut werden."
+      quote = "Hier steht, was diese Person für eine Rolle bei PHYTAGO spielt und was die Spezialfähigkeiten sind."
       person = 'Robert'
-      img = "person3.png"
+      img = "person3.jpg"
       alt = "bild"
+
+    [[params.testimonials.item]]
+      quote = "Hier steht, was diese Person für eine Rolle bei PHYTAGO spielt und was die Spezialfähigkeiten sind."
+      person = 'Henry'
+      img = "person4.jpg"
+      alt = "bild"
+
+    [[params.testimonials.item]]
+      quote = "Hier steht, was diese Person für eine Rolle bei PHYTAGO spielt und was die Spezialfähigkeiten sind."
+      person = 'Thomas'
+      img = "person1.jpg"
+      alt = "bild"
+
+      [[params.testimonials.item]]
+        quote = "Unser wichtigster Mitspieler ist natürlich die Mutter Natur mit ihren geheimnisvollen natürlichen Gleichgewichten und der daraus resultierenden Ökokreislaufsysteme."
+        person = 'Die Natur'
+        img = "person1.jpg"
+        alt = "bild"
 
 
   # Services section
