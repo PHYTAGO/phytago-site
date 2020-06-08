@@ -87,7 +87,7 @@ video = "video-chia.mp4"
   [[params.intro.item]]
     title = "Vitalpulver"
     description = "Vitalpulver sind überwiegend als Biokatalysatoren in Zellen und Geweben bei Anwesenheit von Wasser, Sauerstoff und Kohlensäure (letztere bei Pflanzen) wirksame lebenswichtige Bestandteile: Enzyme, Co-Enzyme, Vitamine, Hormone, exogen-essentielle Aminosäuren, exogen-essentielle Fettsäuren, Haupt- und Spurenelemente, Duft- und Geschmacksstoffe."
-    url = "/produkte/Vitalpulver"
+    url = "/produkte/vitalpulver"
     button = "Vitalpulver"
     icon = "icon-diamond"
     img = "Gewuerze.jpg"

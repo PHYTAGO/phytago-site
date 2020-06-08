@@ -10,9 +10,7 @@ heroheight: 350px
 ---
 <!-- Die Kleine Flamme des Lebens - Die Bedeutung des Enoki als Vitalpilz nimmt stetig zu, seit eine japanische Studie nachweisen konnte, dass die Krebserkrankungsrate von Züchtern des Enoki deutlich niedriger als in der Normalbevölkerung ist. Vermutlich ist der Enoki einer der ersten gezielt kultivierten Speisepilze überhaupt. Sein Anbau lässt sich bis in die späte chinesische Tang-Dynastie in den Jahren 800 bis 900 zurückdatieren. Seine einfache Kultivierung macht ihn auch für die Forschung attraktiv. So wurde im Rahmen der Spacelab-Mission D-2 im Jahr 1993 der Einfluss der Schwerkraft auf das Wachstum des Enoki untersucht.
 Der Enoki ist besonders in der japanischen Küche ein sehr verbreiteter Speisepilz. Auch in Europa wird der Pilz, der vorwiegend im Winter auf Stümpfen sowie an Stämmen und abgefallenen Ästen von Laubgehölzen wächst, von Kennern geschätzt.
--->
-"Die zarten weißen Pilze mit ihren langen samtigen Stielen und kleinen Köpfen haben einen süßlichen, milden Geschmack."
-<!--
+
 In der Praxis erprobte Anwendungsgebiete
 • Verbesserung der Verträglichkeit von Chemo- und Strahlentherapie
   Die immunmodulierenden Eigenschaften des Enoki stärken einen Organismus, der aufgrund einer schulmedizinischen Tumortherapie besonders belastet wird. Sowohl eine verbesserte Verträglichkeit der Therapie als auch ein Schutz vor weiteren Zellveränderungen kann durch die antioxidativ wirkenden Inhaltsstoffe erreicht werden.
@@ -50,3 +48,4 @@ Vitamin C	0 mg
 Vitamin D	5 IU
 Vitamin B6 0,1 mg
 Vitamin B12	0 µg -->
+NÄHRSTOFFTABELLE
