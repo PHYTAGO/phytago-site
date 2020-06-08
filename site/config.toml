@@ -82,6 +82,7 @@ video = "video-chia.mp4"
     button = "Gourmetpilze"
     icon = "icon-diamond"
     img = "Pilze.jpg"
+    herovideo ="video-mushrooms1.mp4"
 
   [[params.intro.item]]
     title = "Vitalpulver"
@@ -90,6 +91,7 @@ video = "video-chia.mp4"
     button = "Vitalpulver"
     icon = "icon-diamond"
     img = "Gewuerze.jpg"
+    herovideo ="video-rettich-big1.mp4"
 
   #  [[params.intro.item]]
   #    title = "Individueller Anbau"
