@@ -5,8 +5,10 @@ draft: true
 image: "RETTICH1.png"
 heroimage: "RETTICH1.png"
 herovideo: ""
-herotext: ["Rettich"]
+herotext: ["hohem Senfölanteil","Fett gibt es nur in minimalen Anteilen","Enzyme und Hormone enthalten"]
 heroheight: 350px
 ---
 
- Rettichgrün besteht aus ca. 37 % schwefelhaltigem, ätherischem Öl mit hohem Senfölanteil. Proteine sind mit 2% vertreten, Fett gibt es nur in minimalen Anteilen (0,2%). Ansonsten sind die Vitamine A, B1, B2 Niacin und viel C enthalten. Zudem gibt es im Rettich 4% Kohlenhydrate, die Mineralien Eisen, Kalium, Kalzium, Magnesium, Natrium und Phosphor. Neben Bitterstoffen und Scharfstoffen (im Senföl) sind noch Enzyme und Hormone enthalten. Durch die Chlorophyllbildung im Wachsprozess vermehren sich die Inhaltsstoffe sehr rasch und steigern die pharmakologische Wirkung.
+ <!-- Rettichgrün besteht aus ca. 37 % schwefelhaltigem, ätherischem Öl mit hohem Senfölanteil. Proteine sind mit 2% vertreten, Fett gibt es nur in minimalen Anteilen (0,2%). Ansonsten sind die Vitamine A, B1, B2 Niacin und viel C enthalten. Zudem gibt es im Rettich 4% Kohlenhydrate, die Mineralien Eisen, Kalium, Kalzium, Magnesium, Natrium und Phosphor. Neben Bitterstoffen und Scharfstoffen (im Senföl) sind noch Enzyme und Hormone enthalten. Durch die Chlorophyllbildung im Wachsprozess vermehren sich die Inhaltsstoffe sehr rasch und steigern die pharmakologische Wirkung. -->
+
+NÄHRSTOFFTABELLE ?

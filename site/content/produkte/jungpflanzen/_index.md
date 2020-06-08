@@ -2,10 +2,10 @@
 title: ""
 date: 2020-05-12T20:02:36+02:00
 herovideo: "video-rettich-big1.mp4"
-herotext: ["Jungpflanzen - Gemüse im Säuglingsalter"]
+herotext: ["Jungpflanzen - Gemüse im Säuglingsalter","Frisch Frischer Frischling","jung und gesund!"]
 heroheight: 400px
 videoposition: -200px
-description: "**frisch und knackig** oder **vakuumgetrocknet und knusprig**"
+description: "**frisch und knackig**"
 draft: true
 ---
 TEXTBLOCK_JUNGPFLANZEN

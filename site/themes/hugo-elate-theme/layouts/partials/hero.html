@@ -11,7 +11,7 @@
 			<div class="text-wrap" style="height: {{ .Params.heroheight }}">
 				<div class="text-inner">
 					<div class="row">
-						<div class="col-md-8 col-md-offset-2"> 
+						<div class="col-md-8 col-md-offset-2">
 
 							<!-- <h1 class="to-animate">{{ with .Site.Params.hero.title }}{{ . | markdownify }}{{ end }}</h1>
 						  <h2 class="to-animate">{{ with .Site.Params.hero.subtitle1 }}{{ . | markdownify }}{{ end }}</h2>
@@ -23,9 +23,14 @@
 								<h2 class="to-animate">{{ . | markdownify }}</h2>
 							{{ end }}
 						</div>
-					</div>
+						</div>
+
+
 				</div>
+
 			</div>
+			{{ .Params.description }}
 		</div>
 		<div class="slant"></div>
+
 	</section>
