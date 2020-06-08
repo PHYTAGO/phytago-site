@@ -1,5 +1,5 @@
 ---
-title: "Vitalpulver"
+title: ""
 date: 2020-05-11T11:54:38+02:00
 herovideo: "video-rettich-big1.mp4"
 videoposition:
