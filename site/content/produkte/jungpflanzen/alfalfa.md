@@ -1,16 +1,9 @@
 ---
 title: "Alfalfa"
-date: 2020-04-23T08:09:07+02:00
-draft: true
-image: "ALFALFA1.png"
+image: "prods/alfalfa.jpg"
+description: "Nussiger Geschmack, reich an Vitamin B, A und E und Eisen und anderen Mineralien."
 heroimage: "ALFALFA1.png"
 herovideo: ""
-herotext: ["mild nussiger Geschmack","kalorienarm und sehr vitaminreich","8 essenziellen Aminosäuren"]
+herotext: []
 heroheight: 350px
-info: ""
 ---
-<!--
-a|b|c
--|-|-
-d|e|f -->
-NÄHRSTOFFTABELLE ?

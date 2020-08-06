@@ -1,11 +1,10 @@
 ---
 title: "Brokkoli"
-date: 2020-04-23T08:08:34+02:00
-draft: true
 image: "BROKKOLI1.png"
+description: "Intensiver Brokkoli-Geschmack und extrem zart, reich an Antioxidantien und Proteinen sowie Kalium, Natrium und Kalzium und enthält Sulforaphan."
 heroimage: "BROKKOLI1.png"
 herovideo: ""
-herotext: ["frische, sehr leichte Schärfe ","reichlich Mineralstoffe","viele Vitamine","wervollte sekundäre Pflanzenstoffe"]
+herotext: []
 heroheight: 350px
 ---
  <!--

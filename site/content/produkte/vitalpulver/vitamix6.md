@@ -1,10 +1,9 @@
 ---
-title: "Vitamix6"
-date: 2020-05-13T09:42:21+02:00
+title: "Vitalpulver bei Skoriliose"
+image: "prods/vpul06.jpg"
+description: "Diese 100% natürliche Mischung ist darauf ausgelegt die Skoliosebeschwerden zu lindern."
 herovideo: ""
 videoposition:
-herotext: ["STOFF A","STOFF B", "STOFF C"]
+herotext: []
 heroheight: 400px
-draft: true
 ---
-TEXTBLOX VITAMIX
