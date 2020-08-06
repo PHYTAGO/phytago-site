@@ -1,0 +1,46 @@
+#!/bin/bash
+
+IP=$(echo $(ip address | grep "192.168") | tr "/" " " | cut -d " " -f 2)
+
+if [ ! "x$1" == "x" ]
+then
+
+    (
+    reset
+    echo SHOW CHANGES, CONTINUE WITH RETURN
+    read
+    git diff
+    echo
+    echo "---"
+    echo
+    git status
+    echo CHECK CHANGES, UPLOAD WITH RETURN
+    read
+    )
+
+    (
+    cd site
+    ../hugo -D --baseURL https://phytago.github.io/
+    )
+
+    D=../phytago.github.io/
+    [ -d $D ] && (
+        cp -r site/public/* $D
+        cd $D
+        git reset HEAD
+        git add -u
+        reset
+        git status
+        git commit -m update
+        git push
+    )
+
+else
+
+    (
+    cd site
+    ../hugo server -D --bind $IP --baseURL http://$IP:1313/
+    )
+
+
+fi
