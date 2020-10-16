@@ -20,7 +20,7 @@ theme = "hugo-elate-theme"
   [params.navigation]
     brand = "**P H Y T A G O**"
     intro = "Produkte"
-    services = "Produktion"
+    services = "Service"
     counters = "Philosophie"
     about = "Über uns"
     testimonials = "Das Team"
@@ -57,7 +57,7 @@ theme = "hugo-elate-theme"
 
     [[params.intro.item]]
       title = "Jungpflanzen"
-      description = "... sind verschiedene Gemüse- und Gewürzsorten in ihrer frühen Entwicklungsphase mit hohen Aromen- als auch Vitaminkonzentrationen"
+      description = "... sind verschiedene Gemüse- und Gewürzsorten in ihrer frühen Entwicklungsphase sowohl mit hohen Aromen- als auch Vitaminkonzentrationen"
       url = "/produkte/jungpflanzen"
       button = "Jungpflanzen"
       icon = "icon-plant"
@@ -67,7 +67,7 @@ theme = "hugo-elate-theme"
 
     [[params.intro.item]]
       title = "Gourmetpilze"
-      description = "... sind verschiedene besonders schmackhafte und seltene Pilzsorten mit beispielsweise herzhaften, nussigen oder auch süßlichen Aroma"
+      description = "... sind verschiedene besonders schmackhafte und seltene Pilzsorten mit beispielsweise herzhaftem, nussigem oder auch süßlichem Aroma"
       url = "/produkte/gourmetpilze"
       button = "Gourmetpilze"
       icon = "icon-diamond"
@@ -116,37 +116,37 @@ theme = "hugo-elate-theme"
     enable = true
     menu = true
     title = "Das TEAM"
-    description = "Mit fachlichem Wissen und Kenntnisspezialisierungen für Sie erreichbar:"
+    description = "Unser interdisziplinäres Team für Sie erreichbar:"
 
 
     [[params.testimonials.item]]
       quote = "Der Betriebswirt"
       person = 'Nico'
-      img = "team1.png"
+      img = "nico.png"
       alt = ""
 
     [[params.testimonials.item]]
-      quote = "Die Ökologin"
+      quote = "Die Umweltwissenschaftlerin"
       person = 'Céline'
-      img = "team2.png"
+      img = "celine.png"
       alt = ""
 
     [[params.testimonials.item]]
       quote = "Der Ingenieur"
       person = 'Robert'
-      img = "team4.png"
+      img = "robert.png"
       alt = ""
 
     [[params.testimonials.item]]
       quote = "Der Informatiker"
       person = 'Henry'
-      img = "team3.png"
+      img = "henry.png"
       alt = ""
 
     [[params.testimonials.item]]
       quote = "Der Webspezialist"
       person = 'Thomas'
-      img = "person1.jpg"
+      img = "thomas.jpg"
       alt = ""
 
       [[params.testimonials.item]]
@@ -160,18 +160,18 @@ theme = "hugo-elate-theme"
   [params.services]
     enable = true
     menu = true
-    title = "Besonderheiten der Produktion"
-    description = "Über ein innovatives Kreislaufsystem, welches mit künstlicher Intelligenz die Zuchtbereiche der verschiedenen Organismen kombiniert, werden unsere Lebensmittel frei von Pestiziden, ganzjährig mit gleichbleibend höchster Qualität produziert, wobei der Ressourcenbedarf minimal und der Geschmack maximal ist."
+    title = "Service"
+    description = "Über ein innovatives Kreislaufsystem, welches mit künstlicher Intelligenz die Zuchtbereiche der verschiedenen Organismen kombiniert, werden unsere Lebensmittel frei von Pestiziden ganzjährig mit gleichbleibend höchster Qualität produziert und angeboten."
 
     [[params.services.item]]
-      title = "individualisierte Versorgung"
-      description = "Wunschentsprechend werden Versorgungspläne für unsere frischen getrockneten, pulverisierten und gefrosteten Lebensmittel erstellt, welche jederzeit angepasst werden können."
+      title = "Individualisierte Versorgung"
+      description = "Wunschentsprechend werden jederzeit anpassbare Versorgungspläne für unsere frischen, getrockneten, pulverisierten oder auch gefrosteten Lebensmittel erstellt. Unsere hochqualitativen Produkte können ganzjährig wöchentlich zur Verfügung gestellt werden."
       icon = "icon-directions"
 
 
     [[params.services.item]]
       title = "RST - Ressource-Saving-Tool "
-      description = "Mithilfe von RST‘s kann das Gewicht von Lebensmitteln im Lager ermittelt werden, sodass aufwendige Inventuren,  zu geringe Vorräte oder Wegwerf-Risiko bei Fehlbestellungen erspart bleiben. Zusätzlich kann mit RST‘s die Bestellung neuer Waren, abhängig vom Restbestand im Lager, individuell automatisiert werden."
+      description = "Um aufwendigen Inventuren und einem zu Wenig und zu Viel an Bestellungen vorzubeugen kann mit RST's das Gewicht von Lebensmitteln im Lager ermittelt werden, sodass Neubestellungen optimierbar und abhängig vom Lagerrestbestand individuell automatisierbar sind."
       icon = "icon-chart"
       # puzzle
 
@@ -180,7 +180,7 @@ theme = "hugo-elate-theme"
     enable = true
     menu = false
     title = "Nachhaltige und soziale Projekte"
-    description = "Zu unserer Geschäftsphilosophie gehört auch der nachhaltige Umgang mit unserer aller Umwelt und die Förderung von gemeinnützigen Initiativen.&NewLine;&NewLine;"
+    description = "Zu unserer Geschäftsphilosophie gehören auch der nachhaltige Umgang mit Natur und Umwelt sowie die Förderung von gemeinnützigen Initiativen."
 
     [params.about.video]
       enable = false
@@ -191,7 +191,7 @@ theme = "hugo-elate-theme"
     [[params.about.item]]
       name = "Unsere Nachhaltigkeit"
       position = ""
-      description = "Für jeden Quadratmeter, welchen wir als Anbaufläche in unserem innovativen Kreislaufsystem nutzen wird ein Quadratmeter Monokultur oder ehemalige Industriefläche renaturiert und zu einem öffentliche Permakultur-Park umgewandelt."
+      description = "Für jeden Quadratmeter, welchen wir als Anbaufläche in unserem innovativen Kreislaufsystem nutzen, wird ein Quadratmeter Monokultur oder ehemalige Industriefläche renaturiert und zu einem öffentlichen Permakultur-Park umgewandelt."
       img = "nachhalt.jpg"
       alt = ""
       social = [
@@ -201,7 +201,7 @@ theme = "hugo-elate-theme"
     [[params.about.item]]
       name = "Unser soziales Engagement"
       position = ""
-      description = "Wir helfen mit frischesten Lebensmittelspenden aus unserer Produktion sozialen Einrichtungen, wie zum Beispiel Waisenheimen, Pflegeeinrichtungen und Seniorenzentren."
+      description = "Wir helfen mit frischesten Lebensmittelspenden aus unserer Produktion sozialen Einrichtungen, wie zum Beispiel Waisenheimen, Pflegeeinrichtungen und Seniorenzentren. Mit unserem Park sensibilisieren wir die Gesellschaft für nachhaltige Landwirtschaft und Verhaltensweisen."
       img = "sozial.jpg"
       alt = ""
       social = [
@@ -240,10 +240,10 @@ theme = "hugo-elate-theme"
       speed = 200
 
     [[params.counters.item]]
-      description = "weniger Dünger"
-      icon = "icon-graph"
+      description = "weniger Anbaufläche"
+      icon = "icon-size-actual"
       from = 0
-      to = 93
+      to = 90
       interval = 1
       speed = 200
 
@@ -290,11 +290,13 @@ theme = "hugo-elate-theme"
 
     # Available icons: http://simplelineicons.com/
     details = [
-        ["icon-envelope-letter", "nico.jany@web.de"],
+        ["icon-envelope-letter", "contact@phytago.com"],
         ["icon-call-out", "+49 0176 57842386"],
-        ["icon-xing", "[Nico Jany @ Xing](https://www.xing.com/profile/Nico_Jany/cv/)"],
-        ["icon-linkedin", "[Nico Jany @ LinkedIn](https://www.linkedin.com/in/nico-jany-b272211b4/)"]
+        ["icon-youtube", "[Phytago Official](https://www.youtube.com/channel/UCKmJ9InsrmP7dr3aG8pXi0g)"],
+        ["icon-instagram", "[@phytago.official](https://www.instagram.com/phytago.official/)"]
       ]
+      # ["icon-xing", "[Nico Jany @ Xing](https://www.xing.com/profile/Nico_Jany/cv/)"],
+      # ["icon-linkedin", "[Nico Jany @ LinkedIn](https://www.linkedin.com/in/nico-jany-b272211b4/)"]
       # ["icon-facebook", "facebook.link.go"],
       # ["icon-twitter", "twitter.link.go"],
       # ["icon-globe", "Persönliche Internetpräsenz"]
@@ -312,6 +314,5 @@ theme = "hugo-elate-theme"
     copyright = '&copy; PHYTAGO, 2020'
     links = [
         ["icon-lock", "/verwaltung/datenschutz", "Datenschutz"],
-        ["icon-paperclip", "/verwaltung/agb", "AGB"],
         ["icon-people", "/verwaltung/impressum", "Impressum"]
       ]

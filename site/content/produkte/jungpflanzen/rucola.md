@@ -1,7 +1,7 @@
 ---
 title: "Rucola"
 image: "prods/rucola.jpg"
-description: "Pfeffriger Rucola-Geschmack und zarte Textur, gute Quelle für Protein und Antioxidantien, enthält Vitamin A, B, C und E und alle wichtigen Mineralien."
+description: "Mit einem pfeffrigen Rucola-Geschmack und zarter Textur besticht diese Jungpflanze zusätzlich als gute Protein- und Antioxidantienquelle, enthält Vitamin A, B, C und E sowie alle wichtigen Mineralien."
 heroimage: "RUCOLA1.png"
 herovideo: ""
 herotext: []

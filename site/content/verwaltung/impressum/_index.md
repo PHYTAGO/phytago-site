@@ -12,13 +12,14 @@ Geschäftsführer | Nico Jany
 -|-
 E-Mail          | nico.jany@web.de
 Telefon         | +49 0176 57842386
-Registergericht |
-Handelsregister |
-Steuernummer    |
-UST-ID-Nr.      |
+Adresse         | Am Fuchsmühlenweg 9  09599 Freiberg
+Registergericht | in Bearbeitung
+Handelsregister | in Bearbeitung
+Steuernummer    | in Bearbeitung
+UST-ID-Nr.      | in Bearbeitung
 
 ### Haftungshinweis
 
-> Trotz sorgfältiger inhaltlicher Kontrolle übernehmen
-> wir keine Haftung für Inhalte externer Links. Für den Inhalt der
+> Es wird keine Haftung für Inhalte
+> externer Links übernommen. Für den Inhalt der
 > verlinkten Seiten sind ausschließlich die Betreiber verantwortlich.

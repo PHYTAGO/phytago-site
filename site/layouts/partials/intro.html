@@ -17,35 +17,29 @@
 
 		<div class="flex-container">
 
-
-					{{ range .Site.Params.intro.item }}
-
-					<div class="fh5co-block to-animate">
-					 <div class="overlay-darker"></div>
+			{{ range .Site.Params.intro.item }}
+				<div class="fh5co-block to-animate">
+					<div class="overlay-darker"></div>
 					<div class="overlay">	</div>
-
 					<div class="fh5co-text">
-
-							<i class="fh5co-intro-icon {{ .icon }}"></i>
-							{{ if .button}}
-								<h3><a href="{{ .url }}" class="btn btn-primary">{{ .button}}</a></h3>
-							{{ end }}
-
-
-
-	 						<!-- <h2>{{ .title }}</h2> -->
-							<h4>{{ .description }}</h4>
-						</div>
-						<video autoplay muted loop class="kachelvideo" style="top: {{ .videoposition }};">
-							{{ if in .herovideo ".avi" }}
-								<source src="/videos/{{ .herovideo }}" type="video/avi" />
-							{{ end }}
-							{{ if in .herovideo ".mp4" }}
-								<source src="/videos/{{ .herovideo }}" type="video/mp4" />
-							{{ end }}
-						</video >
+						<i class="fh5co-intro-icon {{ .icon }}"></i>
+						{{ if .button}}
+							<h3>{{ .button }}</h3>
+						{{ end }}
+						<!-- <h2>{{ .title }}</h2> -->
+						<h4>{{ .description |  markdownify }}</h4>
+						<h3><a href="{{ .url }}" class="btn btn-primary">mehr ...</a></h3>
 					</div>
-				{{ end }}
+					<video autoplay muted loop class="kachelvideo" style="top: {{ .videoposition }};">
+						{{ if in .herovideo ".avi" }}
+							<source src="/videos/{{ .herovideo }}" type="video/avi" />
+						{{ end }}
+						{{ if in .herovideo ".mp4" }}
+							<source src="/videos/{{ .herovideo }}" type="video/mp4" />
+						{{ end }}
+					</video >
+				</div>
+			{{ end }}
 
 
 			<!-- {{ if .Site.Params.intro.video.enable }}

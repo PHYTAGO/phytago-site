@@ -1,7 +1,7 @@
 ---
 title: "Senf"
-image: "prods/mustard.jpg"
-description: "Würzig-scharf und knackig, reich an Vitamin A und C, an Karotin und Flavonoiden und enthält Sulforaphan."
+image: "prods/senf.jpg"
+description: "Der würzig-scharfe Geschmack passt hervorragend zu seiner knackigen Textur, wobei Senf reich an Vitamin A, C, Karotin, Flavonoiden und Sulforaphan ist."
 heroimage: "GELBSENF1.png"
 herovideo: ""
 herotext: []

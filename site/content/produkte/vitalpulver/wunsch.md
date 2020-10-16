@@ -1,7 +1,7 @@
 ---
 title: "Wunschpulver"
 image: "wish.png"
-description: "Ihr Wunschpulver"
+description: "Kontaktieren Sie uns gern für Ihren Pulverwunsch!"
 customlink: "#contact"
 herovideo: ""
 videoposition:

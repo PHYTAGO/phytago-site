@@ -1,7 +1,7 @@
 ---
 title: "Kastanienseitling"
 image: "prods/kastanien.jpg"
-description: "Besticht durch seinen ausgesprochen würzigen Geschmack und nussige Noten, die an gebrannte Mandeln erinnern."
+description: "Er besticht durch seinen ausgesprochen würzigen Geschmack und eine nussige Note, die an gebrannte Mandeln erinnert."
 heroimage: "SHITAKE1.png"
 herovideo: ""
 herotext: ["Der König der Aromen"]

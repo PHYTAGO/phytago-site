@@ -1,7 +1,7 @@
 ---
 title: "Wunschpilz"
 image: "wish.png"
-description: "Ihr Wunschpilz"
+description: "Kontaktieren Sie uns gern für Ihren Pilzwunsch!"
 customlink: "#contact"
 heroimage: "SESAM1.png"
 herovideo: ""

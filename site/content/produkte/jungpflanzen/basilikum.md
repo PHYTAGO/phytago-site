@@ -1,8 +1,8 @@
 ---
 title: "Basilikum"
-description: "Intensiver Basilikum-Geschmack mit leicht süßlichen Aroma, enthält viel Vitamin A, B, C und Mineralien, speziell Eisen und Calcium."
-image: "BASILIKUM1.png"
-heroimage: "BASILIKUM1.png"
+description: "Neben einem intensiven Basilikum-Geschmack mit leicht süßlichem Aroma enthält diese Jungpflanze viel Vitamin A, B, C und Mineralien, speziell Eisen und Calcium."
+image: "prods/basilikum.jpg"
+heroimage: "basilikum.jpg"
 herovideo: ""
 herotext: []
 heroheight: 350px

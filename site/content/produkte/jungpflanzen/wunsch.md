@@ -1,7 +1,7 @@
 ---
 title: "Wunschjungpflanze"
 image: "wish.png"
-description: "Ihre Wunschjungpflanze"
+description: "Kontaktieren Sie uns gern für Ihren Jungpflanzenwunsch!"
 customlink: "#contact"
 heroimage: "SESAM1.png"
 herovideo: ""

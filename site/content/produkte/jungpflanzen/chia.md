@@ -1,7 +1,7 @@
 ---
 title: "Chia"
 image: "prods/chia.jpg"
-description: "Leicht bitterer Geschmack, gute Quelle für Omega-Öle, Vitamin A, B, C und E und Aminosäuren."
+description: "Mit einer leicht bitteren Note ist diese Jungpflanze eine gute Omega-Öl-Quelle und beinhaltet viel Vitamin A, B, C, E sowie Aminosäuren."
 heroimage: "CHIA1.png"
 herovideo: ""
 herotext: []

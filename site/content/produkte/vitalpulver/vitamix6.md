@@ -1,7 +1,7 @@
 ---
-title: "Vitalpulver bei Skoriliose"
+title: "Vitalpulver bei Skoliose"
 image: "prods/vpul06.jpg"
-description: "Diese 100% natürliche Mischung ist darauf ausgelegt die Skoliosebeschwerden zu lindern."
+description: "Diese zu 100% natürliche Mischung ist darauf ausgelegt, die Skoliosebeschwerden zu lindern."
 herovideo: ""
 videoposition:
 herotext: []

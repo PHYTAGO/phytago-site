@@ -2,6 +2,8 @@
 
 IP=$(echo $(ip address | grep "192.168") | tr "/" " " | cut -d " " -f 2)
 
+echo $IP
+
 if [ ! "x$1" == "x" ]
 then
 
@@ -20,6 +22,7 @@ then
 
     (
     cd site
+    rm -rf public/
     ../hugo -D --baseURL https://phytago.github.io/
     )
 
@@ -29,6 +32,8 @@ then
         cd $D
         git reset HEAD
         git add -u
+        git add images
+        git add videos
         reset
         git status
         git commit -m update
